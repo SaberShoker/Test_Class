@@ -5,3 +5,13 @@ C:\Users\Shoker\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyRef
 C:\Users\Shoker\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
 C:\Users\Shoker\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\Shoker\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Shoker\source\repos\ConsoleApp2\Test_Class\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Shoker\source\repos\ConsoleApp2\Test_Class\bin\Debug\ConsoleApp2.exe
+C:\Users\Shoker\source\repos\ConsoleApp2\Test_Class\bin\Debug\ConsoleApp2.pdb
+C:\Users\Shoker\source\repos\ConsoleApp2\Test_Class\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Shoker\source\repos\ConsoleApp2\Test_Class\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Shoker\source\repos\ConsoleApp2\Test_Class\obj\Debug\ConsoleApp2.exe
+C:\Users\Shoker\source\repos\ConsoleApp2\Test_Class\obj\Debug\ConsoleApp2.pdb
+C:\Users\Shoker\source\repos\ConsoleApp2\Test_Class\bin\Debug\Person.dll
+C:\Users\Shoker\source\repos\ConsoleApp2\Test_Class\bin\Debug\Person.pdb
+C:\Users\Shoker\source\repos\ConsoleApp2\Test_Class\obj\Debug\ConsoleApp2.csproj.CopyComplete

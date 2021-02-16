@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using PersOnLib;
 
 namespace ConsoleApp2
 {
@@ -15,9 +16,9 @@ namespace ConsoleApp2
         
         public Human(string Name, int Age) { this.Name = Name; this.Age = Age; }
 
-        public Human(string Name){ this.Name = Name; this.Age = 18; }
+        public Human(string Name) : this(Name, 18) { }
 
-        public Human(int Age) { this.Name = "Shoker"; this.Age = Age; }
+        public Human(int Age) : this("Shoker",Age) { }
 
         public void GetInfo()
         {
@@ -31,6 +32,11 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Human Masha = new Human("Masha", 20);
+            Person Pers = new Person("Saberzhanov", 20);
+
+            Pers.GetInfoPers();
+
+            Console.WriteLine("");
 
             Masha.GetInfo();
         }
