@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using PersOnLib;
 
 namespace ConsoleApp2
 {
@@ -31,6 +32,11 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Human Masha = new Human("Masha", 20);
+            Person Pers = new Person("Saberzhanov", 20);
+
+            Pers.GetInfoPers();
+
+            Console.WriteLine("");
 
             Masha.GetInfo();
         }
